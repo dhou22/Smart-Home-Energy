@@ -142,7 +142,7 @@ http://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consu
 - **Temporal Coverage:** December 2006 - November 2010 (47 months)
 - **Granularity:** 1-minute sampling intervals
 - **Total Observations:** 2,075,259 measurements
-- **Variables:** 9 features (active/reactive power, voltage, current, sub-metering)
+- **Variables:** 8 features (timestamp,active/reactive power, voltage, current, sub-metering)
 
 ---
 
